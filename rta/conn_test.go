@@ -914,3 +914,4 @@ func TestNilConnReportsUnavailable(t *testing.T) {
 		t.Fatalf("Unsubscribe error = %v, want %v", err, ErrUnavailable)
 	}
 }
+

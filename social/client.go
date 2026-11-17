@@ -79,3 +79,4 @@ func (c *Client) CloseContext(ctx context.Context) error {
 	c.subscriptionHandlers = nil
 	return nil
 }
+

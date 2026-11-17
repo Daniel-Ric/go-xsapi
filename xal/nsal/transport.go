@@ -168,3 +168,4 @@ func (s headerExclusionSet) authorization() bool {
 func (s headerExclusionSet) signature() bool {
 	return s.contains("Signature")
 }
+

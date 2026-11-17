@@ -210,3 +210,4 @@ var (
 	// endpointURL.
 	contractVersion = internal.ContractVersion("1")
 )
+

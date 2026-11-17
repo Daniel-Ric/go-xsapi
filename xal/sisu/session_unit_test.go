@@ -308,3 +308,4 @@ func (s staticDeviceTokenSource) DeviceToken(context.Context) (*xasd.Token, erro
 func (s staticDeviceTokenSource) ProofKey() *ecdsa.PrivateKey {
 	return s.proofKey
 }
+

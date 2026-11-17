@@ -254,3 +254,4 @@ func (c *Client) handleSessionClose(s *Session) {
 	}
 	c.sessionsMu.Unlock()
 }
+

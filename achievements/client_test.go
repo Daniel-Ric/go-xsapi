@@ -371,3 +371,4 @@ func TestAchievementsRejectsInvalidMaxItems(t *testing.T) {
 		}
 	}
 }
+

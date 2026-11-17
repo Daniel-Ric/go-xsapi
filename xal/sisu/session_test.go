@@ -423,3 +423,4 @@ type deviceTokenSnapshot struct {
 var (
 	deviceSnapshotPath = filepath.Join(testdataDir, "device.token")
 )
+

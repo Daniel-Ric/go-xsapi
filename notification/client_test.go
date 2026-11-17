@@ -37,3 +37,4 @@ func TestUpdateSendsJSONContentType(t *testing.T) {
 		t.Fatalf("Update returned error: %v", err)
 	}
 }
+

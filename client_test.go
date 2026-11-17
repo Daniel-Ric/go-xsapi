@@ -514,3 +514,4 @@ func (*renewingTokenSource) DeviceToken(context.Context) (*xasd.Token, error) {
 func (src *renewingTokenSource) ProofKey() *ecdsa.PrivateKey {
 	return src.proofKey
 }
+

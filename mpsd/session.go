@@ -553,3 +553,4 @@ func parseSessionReference(loc string) (ref SessionReference, err error) {
 	ref.TemplateName, ref.Name = segments[3], segments[5]
 	return ref, nil
 }
+

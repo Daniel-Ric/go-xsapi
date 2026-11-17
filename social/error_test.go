@@ -336,3 +336,4 @@ func (errReadCloser) Read([]byte) (int, error) {
 func (errReadCloser) Close() error {
 	return nil
 }
+

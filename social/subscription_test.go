@@ -127,3 +127,4 @@ func TestSubscribeRejectsNilHandler(t *testing.T) {
 		t.Fatalf("Subscribe(nil) returned cleanup=%v, error=%v", cleanup != nil, err)
 	}
 }
+

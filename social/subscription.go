@@ -196,3 +196,4 @@ const (
 	// It is unexported since it is never delivered to the caller.
 	notificationTypeIncomingFriendRequestCountChanged = "IncomingFriendRequestCountChanged"
 )
+

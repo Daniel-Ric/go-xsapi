@@ -262,3 +262,4 @@ func TestUpdateRetryStopsAfterClose(t *testing.T) {
 		}
 	})
 }
+

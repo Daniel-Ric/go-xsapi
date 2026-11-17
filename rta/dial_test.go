@@ -21,3 +21,4 @@ func TestReconnectBackoff(t *testing.T) {
 		t.Fatalf("second schedule starts at %s, want [1s, 1.5s]", delay)
 	}
 }
+

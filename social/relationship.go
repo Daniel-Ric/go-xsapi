@@ -234,3 +234,4 @@ var (
 	// socialEndpoint.
 	socialContractVersion = internal.ContractVersion("3")
 )
+

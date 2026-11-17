@@ -23,3 +23,4 @@ type (
 		notification[Action, struct{}]
 	}
 )
+

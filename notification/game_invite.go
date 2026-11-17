@@ -75,3 +75,4 @@ func (i *GameInviteLaunchInfo) UnmarshalJSON(b []byte) error {
 	}
 	return nil
 }
+

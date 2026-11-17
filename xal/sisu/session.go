@@ -761,3 +761,4 @@ var endpoint = &url.URL{
 	Scheme: "https",
 	Host:   "sisu.xboxlive.com",
 }
+

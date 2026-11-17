@@ -378,3 +378,4 @@ var (
 	// header to '3' for requests made to the mediaHubEndpoint.
 	mediaHubContractVersion = internal.ContractVersion("3")
 )
+

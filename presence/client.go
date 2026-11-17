@@ -423,3 +423,4 @@ var (
 	// endpoint.
 	contractVersion = internal.ContractVersion("3")
 )
+

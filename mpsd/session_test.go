@@ -1011,3 +1011,4 @@ func (s *blockingSubscriber) Subscribe(context.Context, *rta.Subscription) error
 	}
 	return errors.New("subscribe failed")
 }
+

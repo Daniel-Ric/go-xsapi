@@ -132,3 +132,4 @@ func responseError(resp *http.Response) error {
 	responseErr.Body = strings.ToValidUTF8(string(body), "")
 	return responseErr
 }
+

@@ -152,3 +152,4 @@ func (c *Client) Join(ctx context.Context, handleID uuid.UUID, config JoinConfig
 	}
 	return c.createSession(ctx, ref, resp)
 }
+

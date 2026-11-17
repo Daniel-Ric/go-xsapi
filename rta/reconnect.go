@@ -208,3 +208,4 @@ func (c *Conn) resubscribe(subscriptions []*Subscription) (interrupted bool) {
 	)
 	return interruptedSubscription.Load()
 }
+

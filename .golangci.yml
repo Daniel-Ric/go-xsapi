@@ -19,3 +19,4 @@ formatters:
   settings:
     gofmt:
       simplify: false
+

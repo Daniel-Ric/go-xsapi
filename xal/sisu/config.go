@@ -39,3 +39,4 @@ var AndroidAppConfig = Config{
 	ClientID:    "000000004c12ae6f",
 	RedirectURI: "ms-xal-000000004c12ae6f://auth",
 }
+

@@ -269,3 +269,4 @@ func newJoinTestClient(httpClient *http.Client, connectionID uuid.UUID) *Client 
 	client.subscriptionData.Store(&subscriptionData{ConnectionID: connectionID})
 	return client
 }
+

@@ -160,3 +160,4 @@ func (c *Client) All(ctx context.Context, filter Filter, opts ...internal.Reques
 	}
 	return nil, errors.New("achievements: pagination exceeds 128 pages")
 }
+

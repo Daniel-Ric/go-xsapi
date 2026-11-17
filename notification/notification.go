@@ -306,3 +306,4 @@ const (
 	// ActorTypeUser indicates that an Actor is a user.
 	ActorTypeUser = 1
 )
+
